@@ -1,0 +1,6 @@
+{
+  "name": "Side-by-Side App Comparator",
+  "description": "Compare old and new web applications side-by-side with resizable panes, viewport presets, and inspection tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
